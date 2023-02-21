@@ -1,6 +1,10 @@
 # Data-Analysis_History-of-Olympics
 Study of Olympics Data from the year 1896 to 2016
 
+![image](https://user-images.githubusercontent.com/102762042/220450273-f2cc13c2-358e-4f16-acba-940220a9aca3.png)
+
+https://public.tableau.com/views/OlympicsDataAnalysis_v1/HistoryofOlympics?:language=en-US&:display_count=n&:origin=viz_share_link
+
 ## About Dataset
 ### Context
 This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. I scraped this data from www.sports-reference.com in May 2018. The R code I used to scrape and wrangle the data is on GitHub. I recommend checking my kernel before starting your own analysis.
