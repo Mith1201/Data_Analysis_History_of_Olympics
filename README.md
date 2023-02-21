@@ -1,5 +1,5 @@
 # Data-Analysis_History-of-Olympics
-Study of Olympics Data from the year 1896 to 2016
+## Study of Olympics Data from the year 1896 to 2016
 
 ![image](https://user-images.githubusercontent.com/102762042/220450273-f2cc13c2-358e-4f16-acba-940220a9aca3.png)
 
